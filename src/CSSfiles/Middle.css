@@ -1,0 +1,55 @@
+.bg{
+    background-image: url(./image/pexels-catscoming-707582.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+  
+   border-radius: 30px;
+   border-bottom-right-radius: 0;
+   border-bottom-left-radius: 0;
+   margin-bottom: 0;
+   padding-bottom: 0;
+   margin-top: 0;
+}
+.give{
+    padding-top: 20%;
+    margin-left: 120px;
+    font-size: 60px;
+    padding-bottom: 0;
+    margin-bottom: 0;
+    color: #1ABC9C;
+    margin-top: 35px;
+}
+.coun{
+   margin-left: 120px;
+   font-size: 50px;
+   padding-top: 0px;
+   margin-top: 7px;
+   color :#283747;
+}
+.know{
+    margin-left: 125px;
+    font-size: 25px;
+    color:#2E4053;
+    margin-bottom: 0;
+}
+.your{
+  margin-left: 125px;
+  font-size: 25px;
+  color:#2E4053;
+  margin-top: 7px;
+}
+.Select{
+    margin-left: 120px;
+    padding: 10px 20px 10px 20px;
+    width: 190px;
+    margin-top: 40px;
+    font-size: 30px;
+    color: white;
+    border-radius: 25px;
+    font-weight: bold;
+    background-color: black;
+    box-shadow: 7px 7px 2px rgba(255, 217, 0, 0.438);
+}
+html{
+    scroll-behavior: smooth;
+}

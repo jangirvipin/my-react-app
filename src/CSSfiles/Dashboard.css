@@ -1,0 +1,59 @@
+.Dash{
+    background-color: rgba(197, 174, 174, 0.272);
+    width: 200px;
+    height: 100%;
+    border-radius: 50px;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    
+}
+.z {
+    background-color: rgba(231, 223, 223, 0.322);
+    border-radius: 15px;
+    width: 87%;
+    margin-left: 15px;
+    margin-top: 30px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+.ptag {
+   font-size: 17px;
+   margin-left: 30px;
+   color: white;
+  
+   
+}
+
+.backindia{
+    margin-top: 60px;
+    margin-left: 40px;
+    width: 120px;
+    height: 50px;
+    padding: 17px 40px;
+    border-radius: 50px;
+    cursor: pointer;
+    border: 0;
+    background-color: white;
+    box-shadow: rgb(0 0 0 / 5%) 0 0 8px;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    font-size: 15px;
+    transition: all 0.5s ease;
+  }
+  
+  .backindia:hover {
+    letter-spacing: 3px;
+    background-color: hsl(261deg 80% 48%);
+    color: hsl(0, 0%, 100%);
+    box-shadow: rgb(93 24 220) 0px 7px 29px 0px;
+  }
+  
+  .backindia:active {
+    letter-spacing: 3px;
+    background-color: hsl(261deg 80% 48%);
+    color: hsl(0, 0%, 100%);
+    box-shadow: rgb(93 24 220) 0px 0px 0px 0px;
+    transform: translateY(10px);
+    transition: 100ms;
+  }
+  

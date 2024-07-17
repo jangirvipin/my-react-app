@@ -1,0 +1,18 @@
+.Canada{
+    background-image: url('./image/pexels-vincent-albos-322257-1750754.jpg');
+    background-size:cover;
+    width: 83rem;
+    height: 34rem;
+    margin-left: 0px;
+    padding-top: 58px;
+    padding-bottom: 80px;
+}
+.CanadaA{
+    width: 80%;
+    height: 107%;
+  background-color: rgba(167, 176, 176, 0.791);
+    border-radius: 33px;
+  margin-left: 140px;
+  display: flex;
+ align-content: center;
+}

@@ -1,0 +1,17 @@
+.Feet{
+    background-color: rgba(0, 0, 0, 0.899);
+    width: 100%;
+    height: 300px;
+    position: absolute;
+    margin-top: 85rem;
+}
+.ima{
+    width: 25px;
+    height: 25px;
+    margin-left: 80px;
+   margin-top: 20px;
+  
+}
+html{
+    scroll-behavior: smooth;
+}
